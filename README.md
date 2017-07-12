@@ -1,7 +1,7 @@
 # aquinas-cipher
 A toy cipher project to demonstrate the construction of a simple block cipher
 
-This project is intended to give programmers an introductory understanding of how block ciphers are constructed and implemented. It is by no means intended to be comprehensive and it certainly does not give real world security. I will give prospective developers this warning once and only once: **do not write your own crypto**. It's beyond the scope of a simple README to explain whay. Just don't do it! 
+This project is intended to give programmers an introductory understanding of how block ciphers are constructed and implemented. It is by no means intended to be comprehensive and it certainly does not give real world security. I will give prospective developers this warning once and only once: **do not write your own crypto**. It's beyond the scope of a simple README to explain why. Just don't do it! 
 
 The project will be developed in "version" iterations, with each version adding another feature to the block cipher.
 
